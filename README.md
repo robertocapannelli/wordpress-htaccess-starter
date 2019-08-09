@@ -1,0 +1,2 @@
+# WordPress .htaccess  starter
+
